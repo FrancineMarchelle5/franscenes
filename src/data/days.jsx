@@ -599,7 +599,6 @@ export const days = [
         videos: [
           "/VIDEOS/tagaytay/sky_ranch/IMG_4058.webm",
           "/VIDEOS/tagaytay/sky_ranch/IMG_4117.webm",
-          "/VIDEOS/tagaytay/sky_ranch/IMG_4585.webm",
           "/VIDEOS/tagaytay/sky_ranch/IMG_6585.webm",
         ],
       },
@@ -755,6 +754,7 @@ export const days = [
           "/DAY 5/THE MANSION/IMG_4557.JPG",
           "/DAY 5/THE MANSION/IMG_4565.JPG",
           "/DAY 5/THE MANSION/IMG_4574.JPG",
+          "/DAY 5/THE MANSION/4670dea5-7e7d-42be-92a1-c45df0db8995.jpeg",
         ],
         photosCaption: "General photos at The Mansion",
       },
@@ -780,6 +780,9 @@ export const days = [
           "/DAY 5/MINESVIEW/IMG_4649.JPG",
         ],
         photosCaption: "General photos at Mines View Park",
+        videos: [
+          "/VIDEOS/baguio/IMG_4585.webm",
+        ],
       },
       {
         id: "night-market",
