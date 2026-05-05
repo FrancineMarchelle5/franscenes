@@ -38,10 +38,6 @@ export const days = [
           "Manila",
           "Travel",
         ],
-        didYouKnow: [
-          'Zamboanga City is known as the "City of Flowers" and is one of the oldest cities in the Philippines.',
-          "The flight from Zamboanga to Manila takes roughly 1.5 to 2 hours — covering about 900 km.",
-        ],
         photos: [
           "/PROLOGUE/city_tour_001.jpg",
           "/PROLOGUE/city_tour_002.jpg",
@@ -49,6 +45,8 @@ export const days = [
           "/PROLOGUE/city_tour_004.jpg",
           "/PROLOGUE/city_tour_005.jpg",
           "/PROLOGUE/city_tour_006.jpg",
+          "/PROLOGUE/zamboanga_airport/9b063726-f38d-49e4-bdee-7d3414ee4f43.jpeg",
+          "/PROLOGUE/zamboanga_airport/69d627b9-5448-47c0-9e3a-3bb19f919b73.jpeg",
         ],
         photosCaption: "General photos — the departure from Zamboanga",
       },
@@ -69,11 +67,10 @@ export const days = [
           "Manila has an energy that you can only understand by being in it.",
         ],
         keywords: ["Manila", "Arrival", "NAIA", "First Time"],
-        didYouKnow: [
-          "NAIA (Ninoy Aquino International Airport) is the primary international gateway to the Philippines, handling over 45 million passengers a year.",
-          "Metro Manila is made up of 16 cities and is home to over 13 million people — making it one of the most densely populated urban areas in the world.",
+        photos: [
+          "/PROLOGUE/arrived/1da5dc31-b04f-4e4e-b486-dd2da1baa14d.jpeg",
+          "/PROLOGUE/arrived/704deb8e-af48-416f-9f67-1c4a32c60e5e (1).jpeg",
         ],
-        photos: [],
         videos: [
           "/VIDEOS/departure/IMG_1888.webm",
           "/VIDEOS/departure/vid.mp4",
@@ -780,9 +777,7 @@ export const days = [
           "/DAY 5/MINESVIEW/IMG_4649.JPG",
         ],
         photosCaption: "General photos at Mines View Park",
-        videos: [
-          "/VIDEOS/baguio/IMG_4585.webm",
-        ],
+        videos: ["/VIDEOS/baguio/IMG_4585.webm"],
       },
       {
         id: "night-market",
