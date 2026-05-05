@@ -13,7 +13,7 @@ export const days = [
     theme: "departure",
     coverImg: "",
     intro:
-      "Before the tour officially started, there was the quiet thrill of leaving home for the very first time. From the familiar streets of Zamboanga City to the busy terminals of Manila — this was where it all began.",
+      "Before the tour really started, I felt that quiet excitement of leaving home for the very first time. From the streets I know in Zamboanga to the busy airports of Manila — this is where my story starts.",
     activities: [
       {
         id: "zamboanga-to-manila",
@@ -22,14 +22,14 @@ export const days = [
         location: "Zamboanga City → Manila",
         address: "Zamboanga International Airport",
         description:
-          "The early morning departure from Zamboanga City marked the official start of the DJM Educational Tour. For many of us, this was our first time stepping on a plane — a milestone that felt both terrifying and exciting all at once.",
+          "Leaving Zamboanga early in the morning was the official start of our tour. For many of us, it was our first time on a plane. It felt a bit scary but very exciting!",
         story:
-          "I woke up before dawn, bags already packed and ready by the door. The drive to the airport was quiet, the city still asleep. Checking in, waiting at the gate, feeling the engine hum beneath my feet as we lifted off — every moment felt new. By the time we touched down in Manila, the city was already wide awake, loud and sprawling in a way that Zamboanga never was. It was official: the tour had begun.",
+          "I woke up before the sun came out, with my bags all ready. The ride to the airport was quiet because the city was still asleep. Everything felt new — checking in, waiting at the gate, and feeling the plane take off. When we landed in Manila, it was so loud and big compared to Zamboanga. It was official: the trip had begun.",
         feelings:
-          "Nervous, giddy, and a little overwhelmed — but mostly just grateful to finally be going somewhere far.",
+          "Nervous, happy, and a little shocked — but mostly just thankful to be traveling far.",
         realizations: [
-          "Leaving home, even briefly, changes the way you see it when you come back.",
-          "First flights are terrifying and magical at the same time.",
+          "Leaving home makes you see your own city differently when you get back.",
+          "First flights are a mix of scary and magic.",
         ],
         keywords: [
           "First Flight",
@@ -57,14 +57,13 @@ export const days = [
         location: "Manila, Metro Manila",
         address: "Ninoy Aquino International Airport",
         description:
-          "Touching down in Manila for the first time — the noise, the scale, and the energy of the city hit all at once. This was the real beginning.",
+          "Landing in Manila for the first time was a lot! The noise and the size of the city hit me all at once. This was the real start.",
         story:
-          "The moment we stepped out of the airport, Manila swallowed us whole. Everything was bigger, louder, and faster than anything I had experienced back home. We were finally here.",
-        feelings:
-          "Overwhelmed in the best way possible — wide-eyed and ready for everything.",
+          "As soon as we stepped out of the airport, Manila felt huge. Everything was bigger and faster than what I’m used to back home. We finally made it!",
+        feelings: "Super excited and ready to see everything.",
         realizations: [
-          "Arriving somewhere new for the first time is a feeling that never fully goes away.",
-          "Manila has an energy that you can only understand by being in it.",
+          "Going somewhere new for the first time is a feeling you never forget.",
+          "You have to be in Manila to really feel its energy.",
         ],
         keywords: ["Manila", "Arrival", "NAIA", "First Time"],
         photos: [
@@ -88,7 +87,7 @@ export const days = [
     theme: "history",
     coverImg: "",
     intro:
-      "Our first full day on the ground was a walking tour through the oldest parts of Manila. From the sweeping lawns of Luneta to the centuries-old walls of Intramuros — history met us at every turn.",
+      "Our first full day was a walking tour through the old parts of Manila. We saw the big grass fields of Luneta and the old walls of Intramuros.",
     activities: [
       {
         id: "rizal-park",
@@ -97,20 +96,19 @@ export const days = [
         location: "Ermita, Manila",
         address: "Roxas Boulevard, Ermita, Manila",
         description:
-          "Our afternoon walking tour with Kuya Jero opened at the iconic Rizal Park — a sweeping national landmark where Dr. José Rizal was executed. We roamed the grounds, learned the stories behind every monument, and cooled off with some ice cream from the local vendors.",
+          "Our afternoon walk with our guide, Ate Veron, started at Rizal Park. This is where Dr. José Rizal was killed. We walked around, heard stories about the statues, and ate some local ice cream to cool down.",
         story:
-          "I'd seen Luneta in textbooks my whole life, so actually standing there felt unreal. Kuya Jero was a great guide — he pointed out things I never would have noticed on my own, like the exact execution spot versus the monument itself. It was hot, but I didn't mind. The ice cream helped.",
-        feelings:
-          "Surreal and a little nostalgic, even though it was my first time there.",
+          "I only saw Luneta in school books, so standing there felt weird but cool. Ate Veron was a great guide and showed us things I would have missed. It was hot, but the ice cream helped a lot!",
+        feelings: "It felt special to be there, like stepping into a book.",
         realizations: [
-          "History feels completely different when you're standing in it.",
-          "Seeing the site in person made Rizal's story feel much more human.",
+          "History feels real when you are actually standing where it happened.",
+          "Seeing the park made Rizal's story feel more like a real person's life.",
         ],
         keywords: ["Luneta", "Rizal Park", "Manila", "History", "Walking Tour"],
         didYouKnow: [
-          "Rizal Park spans 58 hectares — making it one of the largest urban parks in Asia.",
-          "Dr. José Rizal was executed here on December 30, 1896, at the age of 35. That date is now a national holiday: Rizal Day.",
-          "The park contains a relief map of the entire Philippine archipelago, built in 1965.",
+          "Rizal Park is huge — it's one of the biggest parks in Asia.",
+          "Dr. José Rizal was killed here on Dec 30, 1896. We now celebrate Rizal Day every year on that date.",
+          "There is a giant map of the whole Philippines made of soil and grass inside the park.",
         ],
         photos: [
           "/DAY 0 - CITY TOUR/luneta/city_tour_007.jpg",
@@ -137,14 +135,14 @@ export const days = [
         location: "The Walled City, Manila",
         address: "Intramuros, Manila",
         description:
-          "Intramuros — the Walled City — is Manila's oldest district. Built by the Spanish in 1571, its cobblestone streets, kalesas, and colonial architecture make it feel like you've stepped through a time portal.",
+          "Intramuros is the oldest part of Manila. It has old stone streets and horse carriages. It feels like you went back in time.",
         story:
-          "Walking through Fort Santiago was the heaviest part of the day. The dungeons where prisoners were kept during the Japanese occupation are still standing, and it's sobering in a way that a classroom lesson never could be. Outside, the city roared on — but inside those walls, time had stopped.",
+          "Walking through Fort Santiago was the most serious part of the day. We saw the dark prison cells from a long time ago. It was much more powerful than learning it in a classroom. Outside, the modern city was loud, but inside the walls, everything felt still.",
         feelings:
-          "A mix of wonder at the preservation and a quiet heaviness after learning about the war-era dungeons.",
+          "I was amazed by the old buildings but felt a little sad thinking about what happened in the prisons.",
         realizations: [
-          "History isn't just dates and names — it's places where real things happened to real people.",
-          "Intramuros surviving to this day is a testament to how much the past deserves to be kept.",
+          "History isn't just names and dates; it's real places where real people lived.",
+          "It's important that we keep these old places standing.",
         ],
         keywords: [
           "Intramuros",
@@ -154,9 +152,9 @@ export const days = [
           "Colonial Manila",
         ],
         didYouKnow: [
-          'Intramuros was founded by Spanish colonizers in 1571 and literally means "within the walls" in Latin.',
-          "Fort Santiago once held José Rizal in its dungeon before his execution. You can still walk the path he took on the night before he died.",
-          "The walls of Intramuros are up to 7 meters thick in some sections — originally built to withstand cannon fire.",
+          'Intramuros means "inside the walls." It was built by the Spanish a long time ago.',
+          "José Rizal was kept in a cell here before he was killed. You can still see his footsteps on the ground.",
+          "The walls are super thick — some parts are as wide as three or four people standing together!",
         ],
         photos: [
           "/DAY 0 - CITY TOUR/intramuros/city_tour_021.jpg",
@@ -182,14 +180,13 @@ export const days = [
         location: "Intramuros, Manila",
         address: "Cabildo St, Intramuros, Manila",
         description:
-          "One of the two historic churches inside Intramuros, the Manila Cathedral is a grand basilica known for its towering architecture and intricate stone detailing. An ongoing mass greeted us when we arrived, lending the whole space a quiet reverence.",
+          "This is a very famous church in Intramuros. It is big and has beautiful stone work. There was a mass going on when we arrived, so it was very quiet and peaceful.",
         story:
-          "We stepped inside carefully since mass was being held. Even with a crowd of tourists around, the cathedral commanded a kind of silence. Standing inside, looking up at the ceiling and the mosaic detail — it made sense why this is the most sought-after wedding venue in the country.",
-        feelings:
-          "Peaceful and a little awe-struck by the scale of everything.",
+          "We went inside quietly because people were praying. Even with lots of tourists, the church felt very calm. Looking up at the high ceiling and the colorful glass, I could see why so many people want to get married here.",
+        feelings: "Peaceful and very impressed by how big it is.",
         realizations: [
-          "Active places of worship deserve extra respect, even during tourist visits.",
-          "Architecture can tell the story of a culture just as well as any textbook.",
+          "Always be quiet and respectful in a church, even if you're just visiting.",
+          "Old buildings can tell us a lot about our culture.",
         ],
         keywords: [
           "Manila Cathedral",
@@ -199,9 +196,9 @@ export const days = [
           "History",
         ],
         didYouKnow: [
-          "The Manila Cathedral has been destroyed and rebuilt eight times — due to earthquakes, fires, and the Second World War.",
-          "It is formally known as the Minor Basilica and Metropolitan Cathedral of the Immaculate Conception.",
-          "The cathedral's pipe organ has over 4,500 pipes and is one of the largest in Asia.",
+          "This church has been broken and rebuilt 8 times because of earthquakes and war!",
+          "The church's giant piano (pipe organ) has over 4,500 pipes.",
+          "It is one of the most famous wedding churches in the Philippines.",
         ],
         photos: [
           "/DAY 0 - CITY TOUR/manila_cathedral/city_tour_017.jpg",
@@ -221,20 +218,19 @@ export const days = [
         location: "Pasay City, Metro Manila",
         address: "J.W. Diokno Blvd, Pasay, Metro Manila",
         description:
-          "After a long day on foot under the Manila sun, arriving at the SM Mall of Asia felt like the perfect reward. As one of the world's largest malls, its scale was staggering — a complete contrast to everything we'd seen earlier.",
+          "After walking all day in the hot sun, going to MOA was the best! It is one of the biggest malls in the world, and it was so different from the old places we saw earlier.",
         story:
-          "I genuinely needed Google Maps to navigate. We only had about an hour and a half, which is nowhere near enough time, but we made the most of it — window shopping, grabbing food, and hunting for stores we don't have back home in Zamboanga.",
-        feelings:
-          "Exhausted but instantly energized by the sheer size of the place.",
+          "I actually needed a map just to find my way around! We only had an hour and a half, which wasn't enough, but we had fun looking at shops and eating food we don't have in Zamboanga.",
+        feelings: "Tired from walking but happy to be in such a huge place.",
         realizations: [
-          "The jump from 1500s Intramuros to a modern mega-mall in under an hour is only possible in Manila.",
-          "1.5 hours in MOA is nothing. Next time, I'd need a whole day.",
+          "Only in Manila can you visit a 1500s wall and a giant modern mall on the same day.",
+          "You need a whole day if you really want to see all of MOA.",
         ],
         keywords: ["MOA", "SM Mall of Asia", "Pasay", "Shopping", "Manila"],
         didYouKnow: [
-          "SM Mall of Asia opened in 2006 and was once the largest mall in the world, covering over 407,000 sqm of gross floor area.",
-          "The mall sits on reclaimed land along Manila Bay — the same bay famous for its stunning sunsets.",
-          "MOA Arena inside the complex has a seating capacity of 15,000 and hosts major concerts and sporting events.",
+          "When it opened in 2006, it was one of the largest malls in the whole world.",
+          "The mall is built on land that used to be part of the sea (reclaimed land).",
+          "It has a giant globe outside that lights up at night.",
         ],
         photos: [
           "/DAY 0 - CITY TOUR/sm_moa/city_tour_029.jpg",
@@ -257,23 +253,23 @@ export const days = [
     theme: "corporate",
     coverImg: "",
     intro:
-      "Day 1 pulled back the curtain on two very different sides of the Philippine tech industry — from engineering simulation labs to a global enterprise company in the heart of BGC.",
+      "Day 1 showed us what it’s like to work in the tech world. We saw cool robot labs and a big international office in the middle of the city.",
     activities: [
       {
         id: "hytech-power",
         emoji: "🤖",
         title: "Hytech Power Inc.",
-        location: "Metro Manila",
+        location: "Novaliches, Quezon City",
         address: "Metro Manila, Philippines",
         description:
-          "Our morning was spent at Hytech Power Inc., a facility focused on industrial simulation, robotics, and technical training technology. We toured their labs, tried out VR welding setups, and saw student-built robotics projects that had won actual competitions.",
+          "We spent the morning at Hytech Power. They do work with robots and cool training tools. We saw their labs and even tried out VR (Virtual Reality) tools for welding.",
         story:
-          "Ate Joy walked us through everything — from anatomy models and transistor displays to full-scale engineering simulators. The VR welding demo was the highlight for me. It hits different when you realize students are learning dangerous industrial skills in a safe virtual environment. Seeing robots built by interns that actually won awards was genuinely inspiring.",
+          "Ate Joy showed us everything. The best part was the VR welding. It was cool to see how students can learn difficult skills safely using a headset. Seeing robots made by students like us was really inspiring!",
         feelings:
-          "Impressed and a little excited about how much technology is available for students who pursue this field.",
+          "Excited to see all the high-tech tools students can use now.",
         realizations: [
-          "Simulation tech removes the fear of failure from learning — and that changes everything.",
-          "Filipino students are capable of building award-winning projects when given the right tools.",
+          "Learning with VR makes it less scary to try hard things.",
+          "Filipino students are really good at building robots!",
         ],
         keywords: [
           "Hytech",
@@ -281,6 +277,10 @@ export const days = [
           "VR Training",
           "Engineering",
           "Simulation",
+        ],
+        didYouKnow: [
+          "VR welding means you can practice without using real fire or gas, so it's 100% safe.",
+          "The robots we saw have won awards in big competitions.",
         ],
         photos: [
           "/DAY 1/DAY01_HYTECH/hytech_001.jpeg",
@@ -303,17 +303,17 @@ export const days = [
         id: "opentext-bgc",
         emoji: "🏢",
         title: "OpenText — BGC Office",
-        location: "Bonifacio Global City, Taguig",
-        address: "Bonifacio Global City, Taguig, Metro Manila",
+        location: "RCBC Plaza, Makati City",
+        address: "RCBC Plaza, Makati City",
         description:
-          "In the afternoon, we traveled to BGC in Taguig to visit the OpenText office. BGC itself was already eye-opening — clean, walkable, and buzzing with professionals. The visit gave us a real look at corporate IT life and what it actually takes to land a role at a global company.",
+          "In the afternoon, we went to BGC to visit OpenText. BGC is so clean and pretty. We learned about what it’s like to work for a global IT company.",
         story:
-          "We weren't allowed to take photos inside since they handle sensitive client data, which we respected. Instead, they set up a program — a walkthrough of operations, an overview of career paths for IT students, and a Q&A with their team. The advice on the hiring process and what makes a strong applicant was genuinely useful.",
+          "We couldn't take photos inside because they protect their clients' info. But they gave us a great talk about how to get a job in IT. Hearing their advice on what makes a good applicant was very helpful for us students.",
         feelings:
-          "Motivated. Seeing where a career in IT could take you made it feel concrete and real.",
+          "Motivated! Seeing the nice offices made me want to work hard in my IT studies.",
         realizations: [
-          "BGC proved that a city's design directly affects how productive and motivated its people feel.",
-          "Getting a job is a skill. Being proactive and curious about the company goes a long way.",
+          "A clean and nice workplace really makes you want to work better.",
+          "Getting a good job isn't just about grades; it's about being curious and ready to learn.",
         ],
         keywords: [
           "OpenText",
@@ -322,6 +322,10 @@ export const days = [
           "Taguig",
           "Corporate",
           "EIM",
+        ],
+        didYouKnow: [
+          "OpenText is a huge company from Canada that helps businesses manage their data.",
+          "BGC used to be a military base, but now it’s one of the most modern cities in the country.",
         ],
         photos: [
           "/DAY 1/DAY01_OPENTEXT/29a0108985eba83ead69c450f9e9a459.jpeg",
@@ -348,23 +352,23 @@ export const days = [
     theme: "government",
     coverImg: "",
     intro:
-      "Day 2 took us from the high-tech command center of one of Manila's most vital government agencies to the fast-paced floor of a global customer experience company. Two worlds, both running 24/7.",
+      "Day 2 took us from a high-tech government room to a huge office that helps people all over the world. It was cool to see how both work 24/7.",
     activities: [
       {
         id: "mmda",
         emoji: "🏛️",
         title: "MMDA Headquarters",
-        location: "Makati City, Metro Manila",
-        address: "Makati City, Metro Manila",
+        location: "Pasig City, Metro Manila",
+        address: "Pasig City, Metro Manila",
         description:
-          "The Metropolitan Manila Development Authority manages traffic, flood control, and emergency response across 16 cities. Their new command center is a complete surprise — a massive crisis room with a full video wall, AI-powered surveillance, and a real-time fiber optic network.",
+          "The MMDA controls the traffic and emergencies in Manila. Their new command center is amazing — it has a giant wall of screens and uses AI to watch the roads.",
         story:
-          "I expected a regular government building. What I got was a room that looked like something out of a sci-fi movie. The video wall showed live feeds from hundreds of cameras across the metro, and the AI doesn't just record — it actively detects violations. Kuya Jero explained that they run on their own underground fiber network, which is why there's no lag. It completely changed how I think about traffic management.",
+          "I thought it would be a boring office, but it looked like a movie! The wall showed live video from hundreds of cameras. The AI can even spot when someone breaks a traffic rule. It made me realize how much work goes into managing the traffic.",
         feelings:
-          "Genuinely stunned. It's easy to complain about traffic until you see how much is actually being done behind the scenes.",
+          "I was shocked! It’s easy to complain about traffic, but seeing the tech they use was really cool.",
         realizations: [
-          "Government tech is more advanced than most people give it credit for.",
-          "Traffic management is a data science problem, not just a manpower one.",
+          "The government uses much more advanced tech than we think.",
+          "Fixing traffic is about using data, not just having more traffic enforcers.",
         ],
         keywords: [
           "MMDA",
@@ -373,6 +377,10 @@ export const days = [
           "Command Center",
           "Manila",
           "NCAP",
+        ],
+        didYouKnow: [
+          "The MMDA uses AI cameras that can give you a ticket even if no police officer is there.",
+          "They have their own internet network underground so their videos never lag.",
         ],
         photos: [
           "/DAY 2/DAY02_MMDA/9b52000be2c4c862656643020bd9cd53.jpeg",
@@ -390,17 +398,16 @@ export const days = [
         id: "teleperformance",
         emoji: "📞",
         title: "Teleperformance Philippines",
-        location: "Metro Manila",
-        address: "Metro Manila, Philippines",
+        location: "McKinley West Campus, Taguig City",
+        address: "McKinley West Campus, Taguig City, Metro Manila",
         description:
-          "Teleperformance is one of the world's leading customer experience companies, operating across nearly 100 countries. Our afternoon there revealed just how vast and complex the BPO industry really is — and why the Philippines is at the center of it.",
+          "Teleperformance is a giant company that helps customers in nearly 100 countries. We saw how big the BPO (call center) world really is.",
         story:
-          "Similar to OpenText, no photos were allowed inside due to account confidentiality. But the tour itself was impressive — walking past rows of agents handling international clients, all moving fast. They gave us a proper welcome program and some useful insights into what BPO work actually involves beyond answering calls. They also gave us some swag before we left.",
-        feelings:
-          "A bit overwhelmed by the scale, but also impressed by how professional and organized the whole operation is.",
+          "No photos inside here either, but the tour was great. We walked past hundreds of people working. They gave us a nice welcome and told us that BPO work is about more than just answering phones. They even gave us some free gifts before we left!",
+        feelings: "Impressed by how big and professional the whole office was.",
         realizations: [
-          'BPO is not just "answering calls" — it\'s a complex, AI-assisted workflow.',
-          "The Philippines' BPO dominance isn't an accident. It's built on years of cultivating talent and infrastructure.",
+          "BPO work isn't just taking calls; they use a lot of tech and AI to help people.",
+          "The Philippines is the best in the world at this because of our great workers.",
         ],
         keywords: [
           "Teleperformance",
@@ -408,6 +415,10 @@ export const days = [
           "Customer Experience",
           "Call Center",
           "Global",
+        ],
+        didYouKnow: [
+          "Over 1.3 million Filipinos work in the BPO industry!",
+          "Teleperformance is almost everywhere in the world.",
         ],
         photos: [
           "/DAY 2/DAY02_TELEPERFORMANCE/0667818a8858fb1e88f943fe41fd56d7.jpeg",
@@ -436,23 +447,23 @@ export const days = [
     theme: "creative",
     coverImg: "",
     intro:
-      "Day 3 was a study in contrasts — the morning was all passion and artistry at a Filipino animation studio, while the afternoon was a grounding conversation with business leaders about what it actually takes to build a career in the global market.",
+      "Day 3 was all about art and business. We visited an animation studio in the morning and had a real talk about global careers in the afternoon.",
     activities: [
       {
         id: "top-peg",
         emoji: "🎨",
         title: "Top Peg Animation Studio",
-        location: "Quezon City, Metro Manila",
-        address: "Quezon City, Metro Manila",
+        location: "Las Piñas, Metro Manila",
+        address: "Las Piñas, Metro Manila",
         description:
-          "Top Peg is one of the Philippines' pioneering animation studios, with credits on projects for Disney, Nintendo, and Netflix's Trese. We got a behind-the-scenes look at the full animation pipeline, tried out professional Pen Displays, and heard from the artists themselves.",
+          "Top Peg is an animation studio that has worked for big names like Disney and Netflix. We saw how cartoons are made and even got to try drawing on their professional screens.",
         story:
-          "Walking into an animation studio felt completely different from every other stop on the tour. It's smaller and more personal than you'd expect — but that energy is exactly what makes it work. Trying the Pen Display was the highlight: drawing on a screen that renders directly is a different experience entirely. Learning that Filipino artists are behind characters you've seen in major global productions gave me a real sense of national pride.",
+          "This place felt so different — it was full of art! Getting to try their drawing screens was the best part. I felt so proud learning that Filipino artists are the ones behind characters I see on TV and in games.",
         feelings:
-          "Energized and inspired. Seeing Filipinos working on global icons like Disney and Nintendo reminded me that world-class talent exists right here at home.",
+          "Very inspired. It reminded me that Filipinos are world-class artists.",
         realizations: [
-          "Animation is a massive team effort — every second of footage takes a whole chain of people.",
-          "Passion is the real currency of the creative industry.",
+          "Making a cartoon takes a lot of people and a lot of time.",
+          "If you love what you do, it shows in your work.",
         ],
         keywords: [
           "Top Peg",
@@ -461,6 +472,10 @@ export const days = [
           "Pen Display",
           "Filipino Artists",
           "Creative",
+        ],
+        didYouKnow: [
+          "Filipino artists worked on the Netflix show 'Trese'!",
+          "Just one second of a cartoon can take days of work to finish.",
         ],
         photos: [
           "/DAY 3/DAY03_TOPPEG/5326843e16b36d54e67b64fdd8f7c7f3.jpeg",
@@ -474,17 +489,17 @@ export const days = [
         id: "microsourcing",
         emoji: "🤝",
         title: "MicroSourcing Philippines",
-        location: "Pasay City, Metro Manila",
-        address: "Pasay City, Metro Manila",
+        location: "Quezon City, Metro Manila",
+        address: "Quezon City, Metro Manila",
         description:
-          "MicroSourcing is one of the largest offshore outsourcing providers in the Philippines, known for building dedicated remote teams for international companies. But what stood out wasn't the office — it was the people. Leaders from different departments sat down with us for a genuine conversation about careers, competition, and what it means to succeed in a global market.",
+          "MicroSourcing helps companies from other countries find great workers in the Philippines. We had a great talk with their leaders about how to succeed in our future jobs.",
         story:
-          "They didn't just talk about their company's success. They told us the truth: when you work in this industry, you're competing with talent from all over the world. That's not meant to discourage — it's meant to push. The leadership panel felt like talking to people who genuinely wanted to see us grow, not just pitch their brand. It was the most honest career conversation I had on the entire tour.",
+          "They were very honest with us. They told us that when we look for jobs, we are competing with people from all over the world. It wasn't to scare us, but to help us work harder. It was the most helpful talk of the whole trip.",
         feelings:
-          "Humbled and motivated. Ending the day with leaders who took real time for us made the whole trip feel more meaningful.",
+          "I felt ready to work harder and more motivated to improve my skills.",
         realizations: [
-          "Global competition is the new standard — good enough for the Philippines isn't enough.",
-          "The best companies invest in people, not just profit.",
+          "We need to be the best we can be because the whole world is watching.",
+          "Good companies really care about helping their people grow.",
         ],
         keywords: [
           "MicroSourcing",
@@ -493,6 +508,10 @@ export const days = [
           "Outsourcing",
           "Leadership",
           "Global Market",
+        ],
+        didYouKnow: [
+          "MicroSourcing connects Filipinos with jobs in the US, Australia, and the UK.",
+          "Every year, over 700,000 students graduate in the Philippines, which is why global companies love it here.",
         ],
         photos: [
           "/DAY 3/DAY03_MICROSOURCING/IMG_3391.JPG",
@@ -516,7 +535,7 @@ export const days = [
     theme: "nature",
     coverImg: "",
     intro:
-      "With Araw ng Kagitingan closing all offices, we traded corporate visits for cool highland air. Tagaytay was exactly the kind of reset we needed — views of Taal Volcano, cold breezes, and a little amusement park fun to cap it all off.",
+      "Since it was a holiday, we went to Tagaytay for some fresh air. It was the perfect break — we saw the volcano, felt the cold wind, and had some fun at the amusement park.",
     activities: [
       {
         id: "peoples-park",
@@ -525,14 +544,13 @@ export const days = [
         location: "Tagaytay City, Cavite",
         address: "Tagaytay City, Cavite — 700m above sea level",
         description:
-          "Perched on Mount Sungay, the highest point in Tagaytay, People's Park in the Sky gave us sweeping 360° views of Taal Lake, the volcano island, and the entire ridge. The weather cooperated perfectly — no fog, just pure highland clarity.",
+          "This park is on the highest point in Tagaytay. We had a great view of Taal Lake and the volcano. The weather was perfect — clear and cool.",
         story:
-          "I'm not an adrenaline person, so a day in the mountains was exactly my kind of free day. The wind up there was cold and constant, and the view of the lake and volcano from that height felt almost unreal. We took photos, bought pasalubong from the stalls, and just breathed for a while. After four days of rushing from office to office, doing nothing felt like everything.",
-        feelings:
-          "Calm and completely reset. The kind of quiet that only a mountain view can give you.",
+          "I loved being in the mountains. The wind was so cold, and the view felt like a painting. We took photos, bought some snacks and gifts, and just relaxed. It was nice to take a break after visiting so many offices.",
+        feelings: "Very calm and happy. I loved the quiet mountain air.",
         realizations: [
-          "Sometimes the unplanned parts of a trip are the best ones.",
-          "Nature doesn't need a schedule — it just needs your attention.",
+          "Sometimes the best parts of a trip are the times you just relax.",
+          "Nature is beautiful and helps you feel refreshed.",
         ],
         keywords: [
           "People's Park",
@@ -541,6 +559,10 @@ export const days = [
           "Mountain",
           "Nature",
           "Scenic",
+        ],
+        didYouKnow: [
+          "This park was supposed to be a mansion for a president, but it was never finished.",
+          "Taal is one of the smallest active volcanoes in the world!",
         ],
         photos: [
           "/DAY 4 - TAGAYTAY/peoples_park/att.4P69lz5_c2P8vFiItSnbsM5nB-F8O7C5trt74FEzw-o.jpg",
@@ -563,43 +585,27 @@ export const days = [
         location: "Tagaytay City, Cavite",
         address: "Tagaytay City, Cavite — along the ridge",
         description:
-          "Sky Ranch sits right on the Tagaytay ridge, combining thrill rides with one of the best natural views in the country. For 400 pesos, you get unlimited access to most attractions — and the Sky Eye Ferris wheel alone is worth the price.",
+          "Sky Ranch is a fun park with a giant ferris wheel and lots of rides. It was a great way to end our day in Tagaytay.",
         story:
-          "I skipped the more extreme rides (no Vikings for me), but the Ferris wheel was non-negotiable. It takes about 10 minutes and the view from the top — the whole ridge, the lake, the volcano — is breathtaking. The bumper cars were a bonus. Watching friends brave the drop tower while I stayed safely on the ground was its own kind of entertainment.",
-        feelings:
-          "Light and happy. Low-stakes fun with the best possible view.",
+          "The park was full of energy. Seeing the giant ferris wheel against the sky was cool. We didn't ride everything, but just being there with the group and enjoying the cool breeze was enough.",
+        feelings: "Happy and like a kid again.",
         realizations: [
-          "You don't have to love extreme rides to have a great time at an amusement park.",
-          "Pushing past small fears — like the Ferris wheel — is always worth it for the view at the top.",
+          "You're never too old to enjoy an amusement park.",
+          "Good friends make any place more fun.",
         ],
-        keywords: [
-          "Sky Ranch",
-          "Tagaytay",
-          "Ferris Wheel",
-          "Sky Eye",
-          "Amusement Park",
-          "Friends",
+        keywords: ["Sky Ranch", "Tagaytay", "Amusement Park", "Ferris Wheel"],
+        didYouKnow: [
+          "The ferris wheel here is called the 'Sky Eye' and it’s 63 meters tall!",
+          "On a clear day, you can see for miles from the top of the rides.",
         ],
         photos: [
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4027.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4037.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4043.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4044.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4049.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4086.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4093.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4095.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4099.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4104.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4142.JPG",
-          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4149.JPG",
+          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4005.JPG",
+          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4032.JPG",
+          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4070.JPG",
+          "/DAY 4 - TAGAYTAY/sky_ranch/IMG_4091.JPG",
+          "/DAY 4 - TAGAYTAY/sky_ranch/sky_ranch.jpeg",
         ],
         photosCaption: "General photos at Sky Ranch Tagaytay",
-        videos: [
-          "/VIDEOS/tagaytay/sky_ranch/IMG_4058.webm",
-          "/VIDEOS/tagaytay/sky_ranch/IMG_4117.webm",
-          "/VIDEOS/tagaytay/sky_ranch/IMG_6585.webm",
-        ],
       },
     ],
   },
@@ -613,7 +619,7 @@ export const days = [
     theme: "mountain",
     coverImg: "",
     intro:
-      "The overnight bus brought us 1,500 meters above sea level to Baguio City — the Summer Capital of the Philippines. Pine trees, cold air, and a full day of sights waited for us on the other side of a 6-hour ride.",
+      "After a long 6-hour bus ride, we arrived in Baguio City — high up in the mountains. The air was cold, the trees were green, and we were ready for a full day of exploring.",
     activities: [
       {
         id: "strawberry-farm",
@@ -622,13 +628,13 @@ export const days = [
         location: "La Trinidad, Benguet",
         address: "La Trinidad, Benguet — Strawberry Capital of the Philippines",
         description:
-          "We arrived at the Strawberry Farm just before dawn, fresh off an overnight bus ride. The cold was immediate and welcome. We walked the fields, took photos among the strawberry rows, and started the morning with 50-peso strawberry taho — the best breakfast on the entire trip.",
+          "We got to the Strawberry Farm right before sunrise. It was very cold! We walked through the rows of strawberries and had strawberry taho for 50 pesos. It was the best breakfast of the whole trip.",
         story:
-          "The temperature drop as we entered Benguet woke me right up. Kuya Jero gave us a great tip — buy your souvenirs here since the prices are lower than at the more touristy spots further into the city. He was right. The strawberry taho alone made the 6-hour bus ride worth it.",
-        feelings: "Refreshed and genuinely cold for the first time in days.",
+          "The cold air really woke me up! Our guide, Ate Veron, told us to buy our gifts here because it's cheaper than in the city. He was right. The strawberry taho was so good, it made the long bus ride worth it.",
+        feelings: "Fresh and very cold for the first time in days!",
         realizations: [
-          "A good tour guide knows where the best deals are — always listen to local advice.",
-          "The 'Summer Capital' is cold enough to need a jacket even in April.",
+          "Listen to your guide — they know where the best prices are.",
+          "Even in April, you definitely need a jacket in Baguio.",
         ],
         keywords: [
           "Strawberry Farm",
@@ -636,6 +642,10 @@ export const days = [
           "Baguio",
           "Strawberry Taho",
           "Benguet",
+        ],
+        didYouKnow: [
+          "La Trinidad is where most of the strawberries in the Philippines come from.",
+          "Strawberry taho is special here because they use fresh berry sauce instead of regular sugar syrup.",
         ],
         photos: [
           "/DAY 5/STRAWBERRY FARM/77453f1908b6729610b64e88f3e3e4ca.jpeg",
@@ -655,14 +665,14 @@ export const days = [
         location: "La Trinidad / Baguio Border",
         address: "Kilometer 3, La Trinidad, Benguet",
         description:
-          "Founded in 1960 by Chinese immigrants, the Bell Church is a Taoist-Buddhist temple with steep pathways, dragon sculptures, ornate pagodas, and panoramic views of the surrounding hills. It feels like stepping into an entirely different country.",
+          "The Bell Church is a beautiful Chinese temple with dragon statues and colorful buildings. It feels like you traveled to another country.",
         story:
-          "The climb up was steep — everything in Baguio goes uphill — but the architecture at the top made it worth every step. Dragon statues, hanging bells, and Chinese inscriptions everywhere. It was quiet in a way that felt intentional. We gave ourselves plenty of time to walk around and take it in.",
+          "We had to walk up a steep path — everything in Baguio is uphill! But once we got to the top, it was beautiful. There were bells and dragons everywhere. It was very quiet and peaceful, so we took our time looking around.",
         feelings:
-          "Quietly amazed. It's one of the most visually distinct places I've been.",
+          "Amazed. It’s one of the prettiest and most unique places we visited.",
         realizations: [
-          "Baguio is more culturally diverse than I expected.",
-          "Sacred spaces deserve respect regardless of your own faith.",
+          "Baguio has many different kinds of beautiful cultures.",
+          "It's important to be quiet and respectful when visiting a temple.",
         ],
         keywords: [
           "Bell Church",
@@ -671,6 +681,10 @@ export const days = [
           "Baguio",
           "Taoist",
           "Culture",
+        ],
+        didYouKnow: [
+          "This temple was built by Chinese immigrants over 60 years ago.",
+          "The steep stairs are meant to show that climbing toward peace takes effort.",
         ],
         photos: [
           "/DAY 5/BELL CHURCH/045948dc664e67194cf144946c41f784.jpeg",
@@ -695,14 +709,14 @@ export const days = [
         location: "Fort del Pilar, Baguio City",
         address: "Fort del Pilar, Baguio City, Benguet",
         description:
-          "PMA is the country's premier training ground for future military leaders, and it is enormous. Fort del Pilar spans 373 hectares and functions like its own small barangay — complete with a hospital, gas stations, and the historic Melchor Hall.",
+          "The PMA is where the country's future military leaders are trained. The place is huge! It’s like a small city with its own hospital and schools.",
         story:
-          "I expected a campus. What I found was basically a self-contained city. We walked the grounds, saw WWII-era aircraft on display at the headquarters, and ended with a group photo at Melchor Hall. Kuya Jero reminded us not to disturb the cadets — even passing ones are technically on duty. That detail alone puts their discipline into perspective.",
+          "I thought it was just a school, but it’s actually like a mini-city. We saw old planes from the war and took a group photo at Melchor Hall. We had to be very quiet and respectful because the students (cadets) there are very disciplined and busy with their training.",
         feelings:
-          "Humbled. There is a weight to the place that you feel the moment you step in.",
+          "I felt a lot of respect for the students there and the hard work they do.",
         realizations: [
-          "PMA isn't a school — it's a lifestyle. 24/7 discipline, every day.",
-          "History and modernity sitting side by side at the Academy shows what it means to honor the past while training for the future.",
+          "PMA is all about discipline, every single day.",
+          "It’s a place that honors the past while training for the future.",
         ],
         keywords: [
           "PMA",
@@ -711,6 +725,10 @@ export const days = [
           "Fort del Pilar",
           "Cadets",
           "Military",
+        ],
+        didYouKnow: [
+          "The PMA is over 100 years old and is modeled after the famous West Point in the USA.",
+          "The grounds are as big as 280 football fields combined!",
         ],
         photos: [
           "/DAY 5/PMA/599e200af450589ebec25aa14a518c20.jpeg",
@@ -733,14 +751,13 @@ export const days = [
         location: "Leonard Wood Road, Baguio City",
         address: "Leonard Wood Road, Baguio City, Benguet",
         description:
-          "The Mansion is the official summer residence of the Philippine president — a Victorian-style landmark that has stood since 1908 and survived a world war. We couldn't go far inside, but the famous wrought-iron gates alone are worth the stop.",
+          "The Mansion is where the President of the Philippines stays during the summer. It has famous iron gates and looks like a classic grand house from a long time ago.",
         story:
-          "It was a quick visit — we stayed near the gates since it\'s still an active government property. But even just standing there, knowing the building has seen colonial governors, post-war reconstruction, and every Philippine president since, gives it a certain gravity. The photo op was excellent.",
-        feelings:
-          "Grand and fleeting — the kind of place that leaves a quiet impression.",
+          "This was a quick stop because it’s still an active government house. We stayed by the gates to take pictures. It’s cool to think that every president has stayed there. It’s a very famous spot for a quick photo op.",
+        feelings: "It felt fancy and historic.",
         realizations: [
-          "Some landmarks don't need hours of your time. Just knowing their story is enough.",
-          "Buildings survive longer than the people who built them — they're how history stays visible.",
+          "Some places are worth visiting even for just a few minutes just to see the history.",
+          "Old buildings are like a way to see history with your own eyes.",
         ],
         keywords: [
           "The Mansion",
@@ -748,6 +765,10 @@ export const days = [
           "Presidential Residence",
           "Historical",
           "Summer Capital",
+        ],
+        didYouKnow: [
+          "The Mansion was first built in 1908 by the Americans.",
+          "It was destroyed in World War II but rebuilt in 1947 so the presidents could keep using it.",
         ],
         photos: [
           "/DAY 5/THE MANSION/IMG_4557.JPG",
@@ -764,15 +785,19 @@ export const days = [
         location: "Mines View, Baguio City",
         address: "Mines View, Baguio City, Benguet",
         description:
-          "Mines View Park overlooks the old gold and copper mines of Itogon, Benguet. It\'s small but lively — horses, stalls, traditional Igorot attire rentals, and a sweeping panoramic view of the surrounding mountain ranges.",
+          "This park gives you a giant view of the mountains and old mines. There are lots of shops, horses, and you can even try on traditional clothing for photos.",
         story:
-          "The observation deck gives a great mountain view and the area around it is full of souvenir stalls and photo opportunities. We tried on traditional Igorot attire and took in the scenery before heading back.",
-        feelings: "Lighthearted and a little touristy, but in the best way.",
+          "The view from the deck was amazing. We had fun looking at all the souvenir shops and trying on the traditional Igorot clothes. It was a very relaxed and fun part of the day.",
+        feelings: "Happy and like a typical tourist in the best way.",
         realizations: [
-          "Sometimes the best stops on a trip are the unplanned, relaxed ones.",
-          "A view like that reminds you how small the city really is against the mountains.",
+          "Sometimes the most 'touristy' spots are actually the most fun.",
+          "The view reminds you how big nature is compared to the city.",
         ],
         keywords: ["Mines View", "Baguio", "Panorama", "Igorot", "Souvenir"],
+        didYouKnow: [
+          "The park is called 'Mines View' because you used to be able to see real gold mines from the balcony.",
+          "The clothes you can rent are the traditional attire of the people who have lived in these mountains for thousands of years.",
+        ],
         photos: [
           "/DAY 5/MINESVIEW/IMG_4591.JPG",
           "/DAY 5/MINESVIEW/IMG_4624.JPG",
@@ -788,14 +813,13 @@ export const days = [
         location: "Harrison Road, Baguio City",
         address: "Harrison Road, Baguio City, Benguet",
         description:
-          "The Baguio Night Market is one of the most organized ukay-ukay markets in the country. Strictly managed with designated entry and exit points, it runs deep into the night along Harrison Road — packed with quality thrift finds at prices that make you question everything you\'ve ever paid for clothes.",
+          "The Baguio Night Market is a huge street market for second-hand clothes (ukay-ukay). It’s very organized and full of great deals if you love shopping.",
         story:
-          "I wasn\'t expecting much from a night market, but the quality of the finds genuinely surprised me. Police and city staff managed crowd flow perfectly — you enter from the front, exit from the back. No chaos, just rows of stalls with branded items in great condition for a fraction of what you\'d pay anywhere else. We stayed longer than planned.",
-        feelings:
-          "Excited in the way only a good find at a good price can make you feel.",
+          "I didn't expect to find so many good things! It’s very organized — everyone enters one way and exits the other, so there’s no chaos. You can find branded clothes for very cheap. We ended up staying much longer than we thought we would!",
+        feelings: "Excited to find good deals!",
         realizations: [
-          "Organization transforms even a crowded public market into a pleasant experience.",
-          "The best finds on a trip aren\'t always the souvenirs you planned to buy.",
+          "A market is much more fun when it's organized and safe.",
+          "The best things you buy on a trip are often the ones you didn't plan to find.",
         ],
         keywords: [
           "Night Market",
@@ -803,6 +827,10 @@ export const days = [
           "Baguio",
           "Ukay-Ukay",
           "Thrift",
+        ],
+        didYouKnow: [
+          "The night market has been a Baguio tradition since the 1980s.",
+          "'Ukay-ukay' means 'to rummage' or dig through a pile, but in Baguio, the items are usually very high quality.",
         ],
         photos: [],
         videos: ["/VIDEOS/baguio/IMG_4675.webm"],
@@ -819,7 +847,7 @@ export const days = [
     theme: "leisure",
     coverImg: "",
     intro:
-      "The final day was ours. No itinerary, no company visits, no rush — just the cool Baguio air and freedom to go wherever we wanted. We made the most of it.",
+      "The last day was all ours. No schedule, no meetings — just the cold Baguio air and the freedom to walk around and enjoy the city one last time.",
     activities: [
       {
         id: "burnham-park",
@@ -828,13 +856,13 @@ export const days = [
         location: "Baguio City Center",
         address: "Burnham Park, Baguio City, Benguet",
         description:
-          "Designed by American architect Daniel Burnham — who also drafted the original urban plan for Manila — Burnham Park is the heart of Baguio City. We rented carts and spent the morning riding around the massive grounds, breathing in the pine-scented air one last time.",
+          "Burnham Park is the heart of Baguio. We rented small go-karts and spent the morning riding around and enjoying the fresh pine tree smell.",
         story:
-          "The lake was dry so boating wasn't an option, but the carts more than made up for it. Riding around the park with no schedule and nowhere to be felt like the perfect end to a packed week. SM Baguio was right there — and being in a mall with no air conditioning because the natural climate handles it is genuinely one of the coolest things I\'ve experienced.",
-        feelings: "Calm, satisfied, and a little sad that it was ending.",
+          "We couldn't go boating because the lake was dry, but the carts were even more fun! It felt great to just relax with no rush. We also visited SM Baguio nearby. It’s the only mall I know that doesn't need air conditioning because the mountain air is so cold!",
+        feelings: "Relaxed and a little sad that the trip was almost over.",
         realizations: [
-          "A slow morning at the end of a long trip helps you process everything you lived through.",
-          "Natural ventilation is a flex. SM Baguio doesn\'t need AC, and honestly, neither did we.",
+          "A slow morning is the best way to finish a busy trip.",
+          "Baguio is so cool that even the big malls don't need AC.",
         ],
         keywords: [
           "Burnham Park",
@@ -843,6 +871,10 @@ export const days = [
           "Free Day",
           "Carts",
           "Leisure",
+        ],
+        didYouKnow: [
+          "The park was designed by the same man who planned the city of Manila.",
+          "SM Baguio is famous because it uses natural wind to keep the mall cool instead of machines.",
         ],
         photos: [
           "/DAY 6/652350a5520edd14bfd194d98b95157a.jpeg",
@@ -859,13 +891,13 @@ export const days = [
         location: "Baguio → Quezon City → Zamboanga",
         address: "Prince Plaza Hotel, Quezon City",
         description:
-          "After seven packed days, it was finally time to pack our bags and head home. We checked out of Prince Plaza Hotel, made our way back to Quezon City, and spent one last night before flying home to Zamboanga the following morning.",
+          "After seven busy days, it was time to pack up. we headed back to Quezon City for one last night before catching our flight home to Zamboanga.",
         story:
-          "Leaving felt different from how I expected. The bags were heavier — not just from pasalubong, but from everything the week had given us. Prince Plaza had been our base before the tour began and now it was our send-off. One last group photo, one last jeepney ride, and then the airport. The flight home was quiet in the best way.",
-        feelings: "Grateful, exhausted, and already missing it.",
+          "Our bags were much heavier now because of all the gifts we bought! Leaving felt a bit different because we had learned so much. We took one last group photo and headed to the airport. The flight home was quiet as we all thought about the great time we had.",
+        feelings: "Thankful, tired, and already missing the trip.",
         realizations: [
-          "Seven days is short enough to feel like a dream and long enough to change how you see things.",
-          "Home feels different when you return with new eyes.",
+          "Seven days can fly by, but you come home feeling like a different person.",
+          "Home feels special when you return after a big adventure.",
         ],
         keywords: [
           "Going Home",

@@ -44,7 +44,7 @@ export default function DayPage() {
             {day.subtitle}
           </p>
           <div className="w-8 h-px bg-border mt-6" />
-          <p className="mt-6 text-sm text-muted-foreground leading-relaxed max-w-xl">
+          <p className="mt-6 text-sm text-muted-foreground leading-relaxed max-w-xl text-justify">
             {day.intro}
           </p>
         </div>
@@ -72,7 +72,7 @@ export default function DayPage() {
               </div>
 
               {/* description */}
-              <p className="text-sm text-muted-foreground leading-relaxed mb-6">
+              <p className="text-sm text-muted-foreground leading-relaxed mb-6 text-justify">
                 {activity.description}
               </p>
 
@@ -96,7 +96,7 @@ export default function DayPage() {
                   <p className="text-[10px] uppercase tracking-[0.28em] text-muted-foreground mb-3">
                     the scene
                   </p>
-                  <p className="text-sm leading-relaxed text-foreground/80">
+                  <p className="text-sm leading-relaxed text-foreground/80 text-justify">
                     {activity.story}
                   </p>
                 </div>
@@ -108,7 +108,7 @@ export default function DayPage() {
                   <p className="text-[10px] uppercase tracking-[0.28em] text-muted-foreground mb-2">
                     feelings
                   </p>
-                  <p className="text-sm italic text-foreground/70 leading-relaxed">
+                  <p className="text-sm italic text-foreground/70 leading-relaxed text-justify">
                     {activity.feelings}
                   </p>
                 </div>
