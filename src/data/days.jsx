@@ -13,7 +13,7 @@ export const days = [
     theme: "departure",
     coverImg: "",
     intro:
-      "Before the tour really started, I felt that quiet excitement of leaving home for the very first time. From the streets I know in Zamboanga to the busy airports of Manila — this is where my story starts.",
+      "Before the tour really started, I felt that quiet excitement of leaving home. From the streets I know in Zamboanga to the busy airports of Manila — this is where my story starts.",
     activities: [
       {
         id: "zamboanga-to-manila",
@@ -22,17 +22,15 @@ export const days = [
         location: "Zamboanga City → Manila",
         address: "Zamboanga International Airport",
         description:
-          "Leaving Zamboanga early in the morning was the official start of our tour. For many of us, it was our first time on a plane. It felt a bit scary but very exciting!",
+          "Leaving Zamboanga early in the morning was the official start of our tour. It felt a bit scary but very exciting!",
         story:
           "I woke up before the sun came out, with my bags all ready. The ride to the airport was quiet because the city was still asleep. Everything felt new — checking in, waiting at the gate, and feeling the plane take off. When we landed in Manila, it was so loud and big compared to Zamboanga. It was official: the trip had begun.",
         feelings:
           "Nervous, happy, and a little shocked — but mostly just thankful to be traveling far.",
         realizations: [
           "Leaving home makes you see your own city differently when you get back.",
-          "First flights are a mix of scary and magic.",
         ],
         keywords: [
-          "First Flight",
           "Zamboanga",
           "Departure",
           "Manila",
@@ -57,15 +55,14 @@ export const days = [
         location: "Manila, Metro Manila",
         address: "Ninoy Aquino International Airport",
         description:
-          "Landing in Manila for the first time was a lot! The noise and the size of the city hit me all at once. This was the real start.",
+          "Landing in Manila was a lot! The noise and the size of the city hit me all at once. This was the real start.",
         story:
           "As soon as we stepped out of the airport, Manila felt huge. Everything was bigger and faster than what I’m used to back home. We finally made it!",
         feelings: "Super excited and ready to see everything.",
         realizations: [
-          "Going somewhere new for the first time is a feeling you never forget.",
           "You have to be in Manila to really feel its energy.",
         ],
-        keywords: ["Manila", "Arrival", "NAIA", "First Time"],
+        keywords: ["Manila", "Arrival", "NAIA"],
         photos: [
           "/PROLOGUE/arrived/1da5dc31-b04f-4e4e-b486-dd2da1baa14d.jpeg",
           "/PROLOGUE/arrived/704deb8e-af48-416f-9f67-1c4a32c60e5e (1).jpeg",
