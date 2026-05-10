@@ -17,7 +17,6 @@ export const days = [
     activities: [
       {
         id: "zamboanga-to-manila",
-        emoji: "✈️",
         title: "Zamboanga to Manila",
         location: "Zamboanga City → Manila",
         address: "Zamboanga International Airport",
@@ -50,7 +49,6 @@ export const days = [
       },
       {
         id: "arrived-in-manila",
-        emoji: "🏙️",
         title: "Arrived in Manila",
         location: "Manila, Metro Manila",
         address: "Ninoy Aquino International Airport",
@@ -88,7 +86,6 @@ export const days = [
     activities: [
       {
         id: "rizal-park",
-        emoji: "🌳",
         title: "Rizal Park (Luneta)",
         location: "Ermita, Manila",
         address: "Roxas Boulevard, Ermita, Manila",
@@ -127,7 +124,6 @@ export const days = [
       },
       {
         id: "intramuros",
-        emoji: "🏛️",
         title: "Intramuros & Fort Santiago",
         location: "The Walled City, Manila",
         address: "Intramuros, Manila",
@@ -172,7 +168,6 @@ export const days = [
       },
       {
         id: "manila-cathedral",
-        emoji: "⛪",
         title: "Manila Cathedral",
         location: "Intramuros, Manila",
         address: "Cabildo St, Intramuros, Manila",
@@ -210,7 +205,6 @@ export const days = [
       },
       {
         id: "sm-mall-of-asia",
-        emoji: "🛍️",
         title: "SM Mall of Asia",
         location: "Pasay City, Metro Manila",
         address: "J.W. Diokno Blvd, Pasay, Metro Manila",
@@ -254,7 +248,6 @@ export const days = [
     activities: [
       {
         id: "hytech-power",
-        emoji: "🤖",
         title: "Hytech Power Inc.",
         location: "Novaliches, Quezon City",
         address: "Metro Manila, Philippines",
@@ -298,7 +291,6 @@ export const days = [
       },
       {
         id: "opentext-bgc",
-        emoji: "🏢",
         title: "OpenText — BGC Office",
         location: "RCBC Plaza, Makati City",
         address: "RCBC Plaza, Makati City",
@@ -353,7 +345,6 @@ export const days = [
     activities: [
       {
         id: "mmda",
-        emoji: "🏛️",
         title: "MMDA Headquarters",
         location: "Pasig City, Metro Manila",
         address: "Pasig City, Metro Manila",
@@ -393,7 +384,6 @@ export const days = [
       },
       {
         id: "teleperformance",
-        emoji: "📞",
         title: "Teleperformance Philippines",
         location: "McKinley West Campus, Taguig City",
         address: "McKinley West Campus, Taguig City, Metro Manila",
@@ -448,7 +438,6 @@ export const days = [
     activities: [
       {
         id: "top-peg",
-        emoji: "🎨",
         title: "Top Peg Animation Studio",
         location: "Las Piñas, Metro Manila",
         address: "Las Piñas, Metro Manila",
@@ -484,7 +473,6 @@ export const days = [
       },
       {
         id: "microsourcing",
-        emoji: "🤝",
         title: "MicroSourcing Philippines",
         location: "Quezon City, Metro Manila",
         address: "Quezon City, Metro Manila",
@@ -536,7 +524,6 @@ export const days = [
     activities: [
       {
         id: "peoples-park",
-        emoji: "🏔️",
         title: "People's Park in the Sky",
         location: "Tagaytay City, Cavite",
         address: "Tagaytay City, Cavite — 700m above sea level",
@@ -577,7 +564,6 @@ export const days = [
       },
       {
         id: "sky-ranch",
-        emoji: "🎡",
         title: "Sky Ranch Tagaytay",
         location: "Tagaytay City, Cavite",
         address: "Tagaytay City, Cavite — along the ridge",
@@ -627,7 +613,6 @@ export const days = [
     activities: [
       {
         id: "strawberry-farm",
-        emoji: "🍓",
         title: "La Trinidad Strawberry Farm",
         location: "La Trinidad, Benguet",
         address: "La Trinidad, Benguet — Strawberry Capital of the Philippines",
@@ -664,7 +649,6 @@ export const days = [
       },
       {
         id: "bell-church",
-        emoji: "🔔",
         title: "Bell Church",
         location: "La Trinidad / Baguio Border",
         address: "Kilometer 3, La Trinidad, Benguet",
@@ -708,7 +692,6 @@ export const days = [
       },
       {
         id: "pma",
-        emoji: "🎖️",
         title: "Philippine Military Academy (PMA)",
         location: "Fort del Pilar, Baguio City",
         address: "Fort del Pilar, Baguio City, Benguet",
@@ -750,7 +733,6 @@ export const days = [
       },
       {
         id: "the-mansion",
-        emoji: "🏛️",
         title: "The Mansion",
         location: "Leonard Wood Road, Baguio City",
         address: "Leonard Wood Road, Baguio City, Benguet",
@@ -784,7 +766,6 @@ export const days = [
       },
       {
         id: "mines-view",
-        emoji: "⛰️",
         title: "Mines View Park",
         location: "Mines View, Baguio City",
         address: "Mines View, Baguio City, Benguet",
@@ -812,7 +793,6 @@ export const days = [
       },
       {
         id: "night-market",
-        emoji: "🌃",
         title: "Harrison Road Night Market",
         location: "Harrison Road, Baguio City",
         address: "Harrison Road, Baguio City, Benguet",
@@ -855,7 +835,6 @@ export const days = [
     activities: [
       {
         id: "burnham-park",
-        emoji: "🌳",
         title: "Burnham Park",
         location: "Baguio City Center",
         address: "Burnham Park, Baguio City, Benguet",
@@ -890,7 +869,6 @@ export const days = [
       },
       {
         id: "going-home",
-        emoji: "✈️",
         title: "Checking Out & Heading Home",
         location: "Baguio → Quezon City → Zamboanga",
         address: "Prince Plaza Hotel, Quezon City",
