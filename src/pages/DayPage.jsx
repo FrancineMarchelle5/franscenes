@@ -56,19 +56,16 @@ export default function DayPage() {
           {day.activities.map((activity, i) => (
             <article key={activity.id} id={activity.id}>
               {/* activity header */}
-              <div className="flex items-start gap-4 mb-8">
-                <span className="text-2xl leading-none mt-0.5">{activity.emoji}</span>
-                <div>
-                  <h2
-                    className="font-serif italic text-foreground leading-tight mb-1"
-                    style={{ fontSize: 'clamp(1.4rem, 3vw, 1.85rem)' }}
-                  >
-                    {activity.title}
-                  </h2>
-                  <p className="text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
-                    {activity.location}
-                  </p>
-                </div>
+              <div className="mb-8">
+                <h2
+                  className="font-serif italic text-foreground leading-tight mb-1"
+                  style={{ fontSize: 'clamp(1.4rem, 3vw, 1.85rem)' }}
+                >
+                  {activity.title}
+                </h2>
+                <p className="text-[10px] uppercase tracking-[0.22em] text-muted-foreground">
+                  {activity.location}
+                </p>
               </div>
 
               {/* description */}
